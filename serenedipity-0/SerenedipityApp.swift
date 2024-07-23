@@ -8,7 +8,8 @@
 import SwiftUI
 
 @main
-struct serenedipity_0App: App {
+struct SerenedipityApp: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()

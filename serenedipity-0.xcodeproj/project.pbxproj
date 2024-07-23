@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A934EC932C2F1432000D9BA3 /* serenedipity_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934EC922C2F1432000D9BA3 /* serenedipity_0App.swift */; };
-		A934EC952C2F1432000D9BA3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934EC942C2F1432000D9BA3 /* ContentView.swift */; };
+		A934EC932C2F1432000D9BA3 /* SerenedipityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934EC922C2F1432000D9BA3 /* SerenedipityApp.swift */; };
+		A934EC952C2F1432000D9BA3 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934EC942C2F1432000D9BA3 /* Home.swift */; };
 		A934EC972C2F1434000D9BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A934EC962C2F1434000D9BA3 /* Assets.xcassets */; };
 		A934EC9A2C2F1434000D9BA3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A934EC992C2F1434000D9BA3 /* Preview Assets.xcassets */; };
+		A934ECA12C3100D1000D9BA3 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934ECA02C3100D1000D9BA3 /* Profile.swift */; };
+		A934ECA32C31012E000D9BA3 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934ECA22C31012E000D9BA3 /* History.swift */; };
+		A934ECA72C310936000D9BA3 /* PromptCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934ECA62C310936000D9BA3 /* PromptCircle.swift */; };
+		A934ECA92C310E34000D9BA3 /* Moment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934ECA82C310E34000D9BA3 /* Moment.swift */; };
+		A934ECAB2C3118D1000D9BA3 /* MomentData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934ECAA2C3118D1000D9BA3 /* MomentData.swift */; };
+		A9CE23572C31CEB60014F361 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE23562C31CEB60014F361 /* ContentView.swift */; };
+		A9CE23592C31D5A70014F361 /* MomentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE23582C31D5A70014F361 /* MomentList.swift */; };
+		A9CE235B2C3F24140014F361 /* MomentDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE235A2C3F24140014F361 /* MomentDisplay.swift */; };
+		A9CE235D2C48633C0014F361 /* MomentEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE235C2C48633C0014F361 /* MomentEditor.swift */; };
+		A9CE23612C4D88C60014F361 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE23602C4D88C60014F361 /* DataModel.swift */; };
+		A9CE23632C4EEA7A0014F361 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE23622C4EEA7A0014F361 /* Camera.swift */; };
+		A9CE23672C4EF8720014F361 /* MomentCapturer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE23662C4EF8720014F361 /* MomentCapturer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A934EC8F2C2F1432000D9BA3 /* serenedipity-0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "serenedipity-0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A934EC922C2F1432000D9BA3 /* serenedipity_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = serenedipity_0App.swift; sourceTree = "<group>"; };
-		A934EC942C2F1432000D9BA3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A934EC922C2F1432000D9BA3 /* SerenedipityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerenedipityApp.swift; sourceTree = "<group>"; };
+		A934EC942C2F1432000D9BA3 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		A934EC962C2F1434000D9BA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A934EC992C2F1434000D9BA3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A934ECA02C3100D1000D9BA3 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		A934ECA22C31012E000D9BA3 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = SOURCE_ROOT; };
+		A934ECA62C310936000D9BA3 /* PromptCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromptCircle.swift; sourceTree = SOURCE_ROOT; };
+		A934ECA82C310E34000D9BA3 /* Moment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Moment.swift; sourceTree = SOURCE_ROOT; };
+		A934ECAA2C3118D1000D9BA3 /* MomentData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentData.swift; sourceTree = SOURCE_ROOT; };
+		A9CE23562C31CEB60014F361 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = SOURCE_ROOT; };
+		A9CE23582C31D5A70014F361 /* MomentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentList.swift; sourceTree = SOURCE_ROOT; };
+		A9CE235A2C3F24140014F361 /* MomentDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentDisplay.swift; sourceTree = SOURCE_ROOT; };
+		A9CE235C2C48633C0014F361 /* MomentEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentEditor.swift; sourceTree = SOURCE_ROOT; };
+		A9CE23602C4D88C60014F361 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = SOURCE_ROOT; };
+		A9CE23622C4EEA7A0014F361 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = SOURCE_ROOT; };
+		A9CE23662C4EF8720014F361 /* MomentCapturer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentCapturer.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +75,20 @@
 		A934EC912C2F1432000D9BA3 /* serenedipity-0 */ = {
 			isa = PBXGroup;
 			children = (
-				A934EC922C2F1432000D9BA3 /* serenedipity_0App.swift */,
-				A934EC942C2F1432000D9BA3 /* ContentView.swift */,
+				A9CE23662C4EF8720014F361 /* MomentCapturer.swift */,
+				A9CE23622C4EEA7A0014F361 /* Camera.swift */,
+				A9CE23602C4D88C60014F361 /* DataModel.swift */,
+				A9CE235C2C48633C0014F361 /* MomentEditor.swift */,
+				A9CE235A2C3F24140014F361 /* MomentDisplay.swift */,
+				A9CE23582C31D5A70014F361 /* MomentList.swift */,
+				A9CE23562C31CEB60014F361 /* ContentView.swift */,
+				A934ECAA2C3118D1000D9BA3 /* MomentData.swift */,
+				A934ECA82C310E34000D9BA3 /* Moment.swift */,
+				A934ECA62C310936000D9BA3 /* PromptCircle.swift */,
+				A934ECA22C31012E000D9BA3 /* History.swift */,
+				A934EC922C2F1432000D9BA3 /* SerenedipityApp.swift */,
+				A934ECA02C3100D1000D9BA3 /* Profile.swift */,
+				A934EC942C2F1432000D9BA3 /* Home.swift */,
 				A934EC962C2F1434000D9BA3 /* Assets.xcassets */,
 				A934EC982C2F1434000D9BA3 /* Preview Content */,
 			);
@@ -137,8 +173,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A934EC952C2F1432000D9BA3 /* ContentView.swift in Sources */,
-				A934EC932C2F1432000D9BA3 /* serenedipity_0App.swift in Sources */,
+				A934ECA72C310936000D9BA3 /* PromptCircle.swift in Sources */,
+				A9CE235D2C48633C0014F361 /* MomentEditor.swift in Sources */,
+				A934ECA92C310E34000D9BA3 /* Moment.swift in Sources */,
+				A9CE23592C31D5A70014F361 /* MomentList.swift in Sources */,
+				A934EC952C2F1432000D9BA3 /* Home.swift in Sources */,
+				A934ECA12C3100D1000D9BA3 /* Profile.swift in Sources */,
+				A9CE235B2C3F24140014F361 /* MomentDisplay.swift in Sources */,
+				A9CE23672C4EF8720014F361 /* MomentCapturer.swift in Sources */,
+				A9CE23572C31CEB60014F361 /* ContentView.swift in Sources */,
+				A934ECAB2C3118D1000D9BA3 /* MomentData.swift in Sources */,
+				A9CE23612C4D88C60014F361 /* DataModel.swift in Sources */,
+				A934ECA32C31012E000D9BA3 /* History.swift in Sources */,
+				A9CE23632C4EEA7A0014F361 /* Camera.swift in Sources */,
+				A934EC932C2F1432000D9BA3 /* SerenedipityApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +322,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"serenedipity-0/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture serendipitious moments";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -302,6 +352,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"serenedipity-0/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture serendipitious moments";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
